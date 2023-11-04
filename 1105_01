@@ -1,5 +1,3 @@
-下記のプログラムで読み込んだslime.objが表示されない
-
 import processing.opengl.*;
 PShape IP;
 float cameraX, cameraY, cameraZ;
